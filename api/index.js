@@ -70,3 +70,4 @@ module.exports = async function(req, res, next) {
     return res.json(results);
   }
 }
+
